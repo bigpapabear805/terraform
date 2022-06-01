@@ -50,8 +50,8 @@ require (
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-azure-helpers v0.12.0
 	github.com/hashicorp/go-checkpoint v0.5.0
-	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-getter v1.5.1
+	github.com/hashicorp/go-cleanhttp v0.5.2
+	github.com/hashicorp/go-getter v1.6.1
 	github.com/hashicorp/go-hclog v0.15.0
 	github.com/hashicorp/go-immutable-radix v0.0.0-20180129170900-7f3cd4390caa // indirect
 	github.com/hashicorp/go-msgpack v0.5.4 // indirect
@@ -123,7 +123,7 @@ require (
 	golang.org/x/mod v0.3.0
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+	golang.org/x/sys v0.0.0-20220517195934-5e4e11fc645e
 	golang.org/x/text v0.3.3
 	golang.org/x/tools v0.0.0-20201028111035-eafbe7b904eb
 	google.golang.org/api v0.34.0
